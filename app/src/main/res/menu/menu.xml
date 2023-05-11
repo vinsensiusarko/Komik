@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/on_music"
+        android:icon="@drawable/music_on"
+        android:title="Music On"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/off_music"
+        android:icon="@drawable/music_off"
+        android:title="Music Off"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/exit"
+        android:title="Keluar"
+        app:showAsAction="always" />
+
+</menu>
